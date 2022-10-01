@@ -1,4 +1,4 @@
-.label-primary, .label-warning {
+.label-primary {
     background-image: linear-gradient(90deg,#8a0e27 0,#e03d5d 30%,#8a0e27 51%,#e03d5d 100%);
     border-radius: 3px!important;
     border-left: .5px solid#c27ba0!important;
@@ -374,9 +374,7 @@ ul.nav.nav-tabs.fl {
     max-height: 21px
 }
 
-.label-warning {
-    background-color: #c73560
-}
+
 
 .btn.minix.btn-primary.fa.fa-times.fl,.btn.minix.btn-primary.fa.fa-times.fr {
     border-radius: 15px 15px 15px 15px!important
